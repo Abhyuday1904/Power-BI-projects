@@ -1,3 +1,4 @@
+# Business Insights 360 - FMCG Analytics
 Provide Insights to Management In the Consumer Goods Domain
 AtliQ Hardware is a consumer goods electronics company having operations in various countries.
 
